@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.2...v0.0.3) (2022-01-24)
+
+
+### Bug Fixes
+
+* yarn cleanを追加 ([05da7e2](https://github.com/tricot-inc/fujimi-ui/commit/05da7e2c6b362230f3cc5a0e8c5c586cd9f2aff8))
+
 ### 0.0.2 (2022-01-24)
 
 
