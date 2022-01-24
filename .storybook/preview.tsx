@@ -1,8 +1,6 @@
 import {MINIMAL_VIEWPORTS} from '@storybook/addon-viewport';
-import {addDecorator} from '@storybook/react';
 import {customViewports} from './viewports';
 import {ArgsTable, Title} from '@storybook/addon-docs';
-import {addReadme} from 'storybook-readme';
 
 export const parameters = {
   options: {
@@ -19,10 +17,6 @@ export const parameters = {
   viewport: {
     viewports: {...customViewports, ...MINIMAL_VIEWPORTS},
   },
-  readme: {
-    // This setting is needed not to apply css of storybook-readme to DocsPage
-    highlightContent: false,
-  },
   docs: {
     source: {type: 'dynamic'},
     page: () => (
@@ -33,5 +27,3 @@ export const parameters = {
     ),
   },
 };
-
-addDecorator(addReadme);
