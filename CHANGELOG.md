@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.3...v0.0.4) (2022-01-24)
+
+
+### Bug Fixes
+
+* ci ([ea73ec4](https://github.com/tricot-inc/fujimi-ui/commit/ea73ec4ab6404798b8e3202d5705e01de1b4e8a1))
+
 ### [0.0.3](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.2...v0.0.3) (2022-01-24)
 
 
