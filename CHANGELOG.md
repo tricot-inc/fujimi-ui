@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.4...v0.0.5) (2022-01-25)
+
+
+### Features
+
+* button component ([95d887b](https://github.com/tricot-inc/fujimi-ui/commit/95d887bc68ed867465f354131483bce870227dbf))
+
 ### [0.0.4](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.3...v0.0.4) (2022-01-24)
 
 
