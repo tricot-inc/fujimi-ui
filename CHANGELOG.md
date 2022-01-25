@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.6...v0.0.7) (2022-01-25)
+
+
+### Bug Fixes
+
+* targetをes2018にする ([4d52844](https://github.com/tricot-inc/fujimi-ui/commit/4d52844f0db0d530f0a92e23c03bea6491105286))
+
 ### [0.0.6](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.5...v0.0.6) (2022-01-25)
 
 ### [0.0.5](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.4...v0.0.5) (2022-01-25)
