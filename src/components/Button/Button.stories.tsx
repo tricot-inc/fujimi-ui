@@ -2,7 +2,7 @@ import React from 'react';
 import {Button, Props} from './';
 import {Story} from '@storybook/react/types-6-0';
 import {CartIcon} from '../../icons/fujimi/CartIcon';
-import {ArrowFowardIcon} from '../../icons/fujimi/ArrowFowardIcon';
+import {BarArrowFowardIcon} from '../../icons/fujimi/BarArrowFowardIcon';
 
 export default {
   title: 'components/Button',
@@ -45,7 +45,7 @@ withPurchase.args = {
   size: 'lg',
   icon: {
     left: <CartIcon />,
-    right: <ArrowFowardIcon />,
+    right: <BarArrowFowardIcon />,
   },
 };
 
