@@ -56,6 +56,10 @@ export const Color = {
   },
   RED: {
     /**
+     * danger buttonのホバー字などに使う色です。
+     */
+    RED_90: '#C05048',
+    /**
      * エラー時に使います。
      */
     RED_100: '#A6453E',
