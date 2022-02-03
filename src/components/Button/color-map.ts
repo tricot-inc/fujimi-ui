@@ -8,7 +8,8 @@ export type ButtonColor =
   | 'protein'
   | 'blue'
   | 'outline'
-  | 'purchase';
+  | 'purchase'
+  | 'danger';
 
 type ButtonColorStyle = {
   normal: {
@@ -130,6 +131,22 @@ export const colorMap: Record<ButtonColor, ButtonColorStyle> = {
     focus: {
       background: Color.YELLOW.YELLOW_50,
       border: Color.YELLOW.YELLOW_50,
+    },
+  },
+  danger: {
+    normal: {
+      background: Color.RED.RED_100,
+      color: Color.WHITE.WHITE_100,
+      border: Color.RED.RED_100,
+    },
+    hover: {
+      background: Color.RED.RED_90,
+      color: Color.WHITE.WHITE_100,
+      border: Color.RED.RED_90,
+    },
+    focus: {
+      background: Color.RED.RED_90,
+      border: Color.RED.RED_90,
     },
   },
 } as const;

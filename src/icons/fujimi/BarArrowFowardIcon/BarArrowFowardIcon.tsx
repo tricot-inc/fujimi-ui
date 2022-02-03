@@ -6,7 +6,7 @@ export type Props = React.ComponentPropsWithoutRef<'svg'> & {
   color?: string;
 };
 
-export const ArrowFowardIcon: React.VFC<Props> = ({
+export const BarArrowFowardIcon: React.VFC<Props> = ({
   color = Color.GRAY_ALPHA.GRAY_90,
   title = '',
   ...rest

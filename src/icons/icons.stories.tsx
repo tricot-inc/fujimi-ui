@@ -7,8 +7,10 @@ import {Spacer} from '../components/Spacer';
 import {Text} from '../components/Text';
 
 // Fujimi icons
-import {ArrowBackIcon} from './fujimi/ArrowBackIcon';
-import {ArrowFowardIcon} from './fujimi/ArrowFowardIcon';
+import {BarArrowBackIcon} from './fujimi/BarArrowBackIcon';
+import {BarArrowDownIcon} from './fujimi/BarArrowDownIcon';
+import {BarArrowUpIcon} from './fujimi/BarArrowUpIcon';
+import {BarArrowFowardIcon} from './fujimi/BarArrowFowardIcon';
 import {BlockIcon} from './fujimi/BlockIcon';
 import {CapsuleHardIcon} from './fujimi/CapsuleHardIcon';
 import {CapsuleIcon} from './fujimi/CapsuleIcon';
@@ -108,18 +110,34 @@ const fujimiIconTemplate: Story = () => (
     <Container>
       <Item mobile={{hAlign: 'center'}}>
         <Icon>
-          <ArrowBackIcon />
+          <BarArrowBackIcon />
         </Icon>
         <Label typography={{mobile: Typography.SF_COMFORT_12}}>
-          ArrowBackIcon
+          BarArrowBackIcon
         </Label>
       </Item>
       <Item mobile={{hAlign: 'center'}}>
         <Icon>
-          <ArrowFowardIcon />
+          <BarArrowDownIcon />
         </Icon>
         <Label typography={{mobile: Typography.SF_COMFORT_12}}>
-          ArrowFowardIcon
+          BarArrowDownIcon
+        </Label>
+      </Item>
+      <Item mobile={{hAlign: 'center'}}>
+        <Icon>
+          <BarArrowUpIcon />
+        </Icon>
+        <Label typography={{mobile: Typography.SF_COMFORT_12}}>
+          BarArrowUpIcon
+        </Label>
+      </Item>
+      <Item mobile={{hAlign: 'center'}}>
+        <Icon>
+          <BarArrowFowardIcon />
+        </Icon>
+        <Label typography={{mobile: Typography.SF_COMFORT_12}}>
+          BarArrowFowardIcon
         </Label>
       </Item>
       <Item mobile={{hAlign: 'center'}}>

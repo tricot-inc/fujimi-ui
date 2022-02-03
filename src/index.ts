@@ -10,8 +10,10 @@ export {Stack} from './components/Stack';
 export {Spacer} from './components/Spacer';
 
 // icons
-export {ArrowBackIcon} from './icons/fujimi/ArrowBackIcon';
-export {ArrowFowardIcon} from './icons/fujimi/ArrowFowardIcon';
+export {BarArrowBackIcon} from './icons/fujimi/BarArrowBackIcon';
+export {BarArrowDownIcon} from './icons/fujimi/BarArrowDownIcon';
+export {BarArrowUpIcon} from './icons/fujimi/BarArrowUpIcon';
+export {BarArrowFowardIcon} from './icons/fujimi/BarArrowFowardIcon';
 export {BlockIcon} from './icons/fujimi/BlockIcon';
 export {CapsuleHardIcon} from './icons/fujimi/CapsuleHardIcon';
 export {CapsuleIcon} from './icons/fujimi/CapsuleIcon';
