@@ -29,6 +29,7 @@
     "test": "jest",
     "prepublishOnly": "run-s clean lint build",
     "release": "standard-version",
+    "publish": "git push --follow-tags origin head && npm publish",
     "release:dryrun": "standard-version --dry-run"
   },
   "devDependencies": {
