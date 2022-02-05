@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.7...v0.0.8) (2022-02-05)
+
+
+### Features
+
+* BarArrowDownIconとBarArrowUpIconを追加 ([7b09733](https://github.com/tricot-inc/fujimi-ui/commit/7b09733b05466940e8c23ecb0beeff3473d86ca8))
+
 ### [0.0.7](https://github.com/tricot-inc/fujimi-ui/compare/v0.0.6...v0.0.7) (2022-01-25)
 
 
