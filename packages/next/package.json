@@ -39,8 +39,8 @@
     "@swc/jest": "0.2.17",
     "@tricot-inc/fujimi-ui-core": "file:../core",
     "@tricot-inc/fujimi-ui-icons": "file:../icons",
-    "@types/react": "17.0.38",
-    "@types/react-dom": "17.0.11",
+    "@types/react": "17.0.40",
+    "@types/react-dom": "17.0.13",
     "@types/styled-components": "5.1.21",
     "next": "11.1.3"
   },
