@@ -1,6 +1,6 @@
 {
   "name": "@tricot-inc/fujimi-ui-icons",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": "ssh://git@github.com/tricot-inc/fujimi-ui.git",
   "author": "konojunya <junya03dance@gmail.com>",
   "license": "MIT",
@@ -37,7 +37,7 @@
     "@storybook/react": "6.4.14",
     "@swc/core": "1.2.135",
     "@swc/jest": "0.2.17",
-    "@tricot-inc/fujimi-ui-core": "*",
+    "@tricot-inc/fujimi-ui-core": "^0.1.0",
     "@types/react": "17.0.38",
     "@types/react-dom": "17.0.11",
     "@types/styled-components": "5.1.21"
