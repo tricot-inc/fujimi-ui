@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 import React, {useMemo} from 'react';
 import {IntersectionBoundary} from '../../boundaries/IntersectionBoundary';
 import styled from 'styled-components';

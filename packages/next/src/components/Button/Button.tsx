@@ -4,7 +4,13 @@ import {Link} from '../Link';
 import {ButtonColor, colorMap} from './color-map';
 import {LinkProps} from 'next/link';
 import {LoadingIcon} from '@tricot-inc/fujimi-ui-icons';
-import {ButtonStyle, ButtonLeftIcon, ButtonRightIcon, Color, Typography} from '@tricot-inc/fujimi-ui-core';
+import {
+  ButtonStyle,
+  ButtonLeftIcon,
+  ButtonRightIcon,
+  Color,
+  Typography,
+} from '@tricot-inc/fujimi-ui-core';
 
 interface TypographyViewPort {
   mobile?: FlattenSimpleInterpolation;
@@ -33,15 +39,15 @@ interface WrapperProps {
 export type Size = 'md' | 'lg';
 
 const ButtonWrapper = styled.button<WrapperProps>`
-${ButtonStyle}
+  ${ButtonStyle}
 `;
 
 export const LeftIconWrapper = styled.span`
-${ButtonLeftIcon};
+  ${ButtonLeftIcon};
 `;
 
 export const RightIconWrapper = styled.span`
-${ButtonRightIcon};
+  ${ButtonRightIcon};
 `;
 
 export type Props = React.ComponentPropsWithoutRef<'button'> & {

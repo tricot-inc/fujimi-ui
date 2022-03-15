@@ -4,7 +4,6 @@ module.exports = {
     'plugin:prettier/recommended',
     'plugin:react/recommended',
     'plugin:@typescript-eslint/recommended',
-    'plugin:@next/next/recommended',
     'plugin:storybook/recommended',
   ],
   plugins: [
@@ -37,10 +36,5 @@ module.exports = {
       },
     ],
     'storybook/prefer-pascal-case': 'off',
-  },
-  settings: {
-    react: {
-      version: 'detect',
-    },
   },
 };
