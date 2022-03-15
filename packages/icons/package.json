@@ -1,0 +1,50 @@
+{
+  "name": "@tricot-inc/fujimi-ui-icons",
+  "version": "0.0.1",
+  "repository": "ssh://git@github.com/tricot-inc/fujimi-ui.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "typings": "lib/index.d.ts",
+  "sideEffects": false,
+  "private": false,
+  "engines": {
+    "node": ">=v10.0.0"
+  },
+  "files": [
+    "esm",
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "prebuild": "yarn clean",
+    "build": "run-p build:*",
+    "build:lib": "tsc -p tsconfig.build.json",
+    "build:esm": "tsc -p tsconfig.esm.build.json",
+    "clean": "rimraf ./lib ./esm",
+    "build-storybook": "build-storybook --quiet",
+    "storybook": "start-storybook -p 6006 -s ./public",
+    "publish": "npm publish"
+  },
+  "devDependencies": {
+    "@storybook/addon-a11y": "6.4.14",
+    "@storybook/addon-essentials": "6.4.14",
+    "@storybook/addons": "6.4.14",
+    "@storybook/cli": "6.4.14",
+    "@storybook/react": "6.4.14",
+    "@swc/core": "1.2.135",
+    "@swc/jest": "0.2.17",
+    "@tricot-inc/fujimi-ui-core": "*",
+    "@types/react": "17.0.38",
+    "@types/react-dom": "17.0.11",
+    "@types/styled-components": "5.1.21"
+  },
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "5.3.3"
+  }
+}
