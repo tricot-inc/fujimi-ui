@@ -162,7 +162,6 @@ export const Shadow = {
 } as const;
 
 export const FontFamily = {
-  NOTO: "'Noto Sans JP', sans-serif;",
   MINCHO: "'Mincho Std', sans-serif;",
   AVENIR: "'Avenir', sans-serif;",
   SF: "'-apple-system', 'BlinkMacSystemFont', sans-serif;",
