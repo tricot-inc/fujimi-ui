@@ -28,10 +28,10 @@
     "publish": "npm publish"
   },
   "devDependencies": {
-    "@types/styled-components": "5.1.21"
+    "@types/styled-components": "5.1.24"
   },
   "peerDependencies": {
-    "@types/styled-components": "5.1.21",
+    "@types/styled-components": "5.1.24",
     "styled-components": "5.3.3"
   },
   "gitHead": "f216e74cb41db3cae1ce6e8c064c755abeae5c3a"
