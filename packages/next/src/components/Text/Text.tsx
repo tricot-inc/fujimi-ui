@@ -7,7 +7,7 @@ import {
   Typography,
   LineHeight,
   LetterSpacing,
-} from '@tricot-inc/fujimi-ui-core';
+} from '@tricot-inc/fujimi-ui';
 
 const Wrapper = styled.span<{
   block: boolean;

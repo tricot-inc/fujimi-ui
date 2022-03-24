@@ -1,4 +1,4 @@
-import {Color} from '@tricot-inc/fujimi-ui-core';
+import {Color} from '@tricot-inc/fujimi-ui';
 
 export type ButtonColor =
   | 'primary'

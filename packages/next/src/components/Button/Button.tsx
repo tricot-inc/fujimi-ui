@@ -10,7 +10,7 @@ import {
   ButtonRightIcon,
   Color,
   Typography,
-} from '@tricot-inc/fujimi-ui-core';
+} from '@tricot-inc/fujimi-ui';
 
 interface TypographyViewPort {
   mobile?: FlattenSimpleInterpolation;
