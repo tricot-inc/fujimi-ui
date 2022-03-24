@@ -8,7 +8,7 @@ import {
   Fit,
   ImageStyle,
   BaseImageStyle,
-} from '@tricot-inc/fujimi-ui-core';
+} from '@tricot-inc/fujimi-ui';
 import {IntersectionBoundary} from '../../boundaries/IntersectionBoundary';
 import styled from 'styled-components';
 

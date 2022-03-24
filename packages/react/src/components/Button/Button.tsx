@@ -6,7 +6,7 @@ import {
   ButtonStyle,
   ButtonLeftIcon,
   ButtonRightIcon,
-} from '@tricot-inc/fujimi-ui-core';
+} from '@tricot-inc/fujimi-ui';
 import {Link} from '../Link';
 import {ButtonColor, colorMap} from './color-map';
 import {LoadingIcon} from '@tricot-inc/fujimi-ui-icons';

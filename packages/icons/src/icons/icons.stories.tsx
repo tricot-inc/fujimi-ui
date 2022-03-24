@@ -1,7 +1,7 @@
 import React from 'react';
 import {Story} from '@storybook/react/types-6-0';
 import styled from 'styled-components';
-import {Typography, Radius, Color} from '@tricot-inc/fujimi-ui-core';
+import {Typography, Radius, Color} from '@tricot-inc/fujimi-ui';
 import {Stack, Spacer, Text} from '@tricot-inc/fujimi-ui-react';
 
 // Fujimi icons

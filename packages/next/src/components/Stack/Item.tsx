@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import {StackItemStyle} from '@tricot-inc/fujimi-ui-core';
+import {StackItemStyle} from '@tricot-inc/fujimi-ui';
 
 type Config = {
   order?: number;

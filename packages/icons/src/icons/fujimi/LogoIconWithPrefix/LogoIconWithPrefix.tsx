@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import {CustomMedia} from '@tricot-inc/fujimi-ui-core';
+import {CustomMedia} from '@tricot-inc/fujimi-ui';
 
 type Props = React.ComponentPropsWithoutRef<'svg'>;
 
