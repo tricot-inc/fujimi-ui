@@ -52,6 +52,5 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "styled-components": "5.3.3"
-  },
-  "gitHead": "a24fb8e3947a3ebc0cdb85d0ce53d834abee4a35"
+  }
 }
