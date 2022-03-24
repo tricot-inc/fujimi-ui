@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/tricot-inc/fujimi-ui/compare/@tricot-inc/fujimi-ui-icons@0.1.2...@tricot-inc/fujimi-ui-icons@0.1.3) (2022-03-24)
+
+
+### Bug Fixes
+
+* icons を support するコンポーネントを fujimi-ui-react から local に変更 ([#38](https://github.com/tricot-inc/fujimi-ui/issues/38)) ([b2e64a8](https://github.com/tricot-inc/fujimi-ui/commit/b2e64a8d7b7708279b383b5fadbd107fb1bdabe8))
+
+
+
+
+
 ## [0.1.2](https://github.com/tricot-inc/fujimi-ui/compare/@tricot-inc/fujimi-ui-icons@0.1.1...@tricot-inc/fujimi-ui-icons@0.1.2) (2022-03-24)
 
 
