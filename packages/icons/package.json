@@ -1,5 +1,5 @@
 {
-  "name": "fujimi-ui-icons",
+  "name": "@fujimi/ui-icons",
   "version": "0.2.0",
   "repository": "ssh://git@github.com/tricot-inc/fujimi-ui.git",
   "author": "konojunya <junya03dance@gmail.com>",
@@ -40,7 +40,7 @@
     "@types/react": "17.0.43",
     "@types/react-dom": "17.0.14",
     "@types/styled-components": "5.1.21",
-    "fujimi-ui": "^0.2.0"
+    "@fujimi/ui-core": "^0.2.0"
   },
   "dependencies": {
     "react": "17.0.2",
