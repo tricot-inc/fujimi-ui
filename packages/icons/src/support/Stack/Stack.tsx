@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import {Item} from './Item';
-import {StackStyle, Alignment} from '@tricot-inc/fujimi-ui';
+import {StackStyle, Alignment} from 'fujimi-ui';
 
 type Config = {
   gap?: number;
