@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, {FlattenSimpleInterpolation} from 'styled-components';
 import NextLink, {LinkProps} from 'next/link';
-import {LinkStyle, Color, TextAlign, Typography} from '@tricot-inc/fujimi-ui';
+import {LinkStyle, Color, TextAlign, Typography} from 'fujimi-ui';
 
 interface TypographyViewPort {
   mobile?: FlattenSimpleInterpolation;
