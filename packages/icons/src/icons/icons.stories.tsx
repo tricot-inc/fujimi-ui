@@ -1,7 +1,7 @@
 import React from 'react';
 import {Story} from '@storybook/react/types-6-0';
 import styled from 'styled-components';
-import {Typography, Radius, Color} from 'fujimi-ui';
+import {Typography, Radius, Color} from '@fujimi/ui-core';
 import {Text} from '../support/Text';
 import {Stack} from '../support/Stack';
 import {Spacer} from '../support/Spacer';

@@ -3,14 +3,14 @@ import styled, {FlattenSimpleInterpolation} from 'styled-components';
 import {Link} from '../Link';
 import {ButtonColor, colorMap} from './color-map';
 import {LinkProps} from 'next/link';
-import {LoadingIcon} from 'fujimi-ui-icons';
+import {LoadingIcon} from '@fujimi/ui-icons';
 import {
   ButtonStyle,
   ButtonLeftIcon,
   ButtonRightIcon,
   Color,
   Typography,
-} from 'fujimi-ui';
+} from '@fujimi/ui-core';
 
 interface TypographyViewPort {
   mobile?: FlattenSimpleInterpolation;
