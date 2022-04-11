@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/tricot-inc/fujimi-ui/compare/@fujimi/ui-next@0.2.1...@fujimi/ui-next@0.2.2) (2022-04-11)
+
+
+### Bug Fixes
+
+* ui-icons ([189adc6](https://github.com/tricot-inc/fujimi-ui/commit/189adc6e9daaa6ee3a2df31776339a1684d3dba1))
+
+
+
+
+
 ## 0.2.1 (2022-04-11)
 
 
