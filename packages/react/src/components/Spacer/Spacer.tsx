@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import {SpacerStyle} from '@tricot-inc/fujimi-ui';
+import {SpacerStyle} from '@fujimi/ui-core';
 
 const Wrapper = styled.div<{
   mobile: string;

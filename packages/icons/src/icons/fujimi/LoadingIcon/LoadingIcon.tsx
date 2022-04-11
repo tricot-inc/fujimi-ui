@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, {createGlobalStyle} from 'styled-components';
-import {Color} from '@tricot-inc/fujimi-ui';
+import {Color} from '@fujimi/ui-core';
 
 const Keyframes = createGlobalStyle`
   @keyframes scale {

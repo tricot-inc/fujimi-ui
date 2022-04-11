@@ -171,7 +171,7 @@ export const Typography = {
   /**
    * font-size: 32px
    */
-  SF_NORMAL_32: css`
+  SF_DENSE_32: css`
     letter-spacing: 0.12em;
     font-size: 2rem;
     font-family: ${FontFamily.SF};
@@ -180,7 +180,7 @@ export const Typography = {
   /**
    * font-size: 24px
    */
-  SF_NORMAL_24: css`
+  SF_DENSE_24: css`
     letter-spacing: 0.12em;
     font-size: 1.5rem;
     font-family: ${FontFamily.SF};
@@ -189,7 +189,7 @@ export const Typography = {
   /**
    * font-size: 20px
    */
-  SF_NORMAL_20: css`
+  SF_DENSE_20: css`
     letter-spacing: 0.12em;
     font-size: 1.25rem;
     font-family: ${FontFamily.SF};
@@ -198,7 +198,7 @@ export const Typography = {
   /**
    * font-size: 18px
    */
-  SF_NORMAL_18: css`
+  SF_DENSE_18: css`
     letter-spacing: 0.12em;
     font-size: 1.125rem;
     font-family: ${FontFamily.SF};
@@ -207,7 +207,7 @@ export const Typography = {
   /**
    * font-size: 16px
    */
-  SF_NORMAL_16: css`
+  SF_DENSE_16: css`
     letter-spacing: 0.12em;
     font-size: 1rem;
     font-family: ${FontFamily.SF};
@@ -216,7 +216,7 @@ export const Typography = {
   /**
    * font-size: 14px
    */
-  SF_NORMAL_14: css`
+  SF_DENSE_14: css`
     letter-spacing: 0.12em;
     font-size: 0.875rem;
     font-family: ${FontFamily.SF};
@@ -225,7 +225,7 @@ export const Typography = {
   /**
    * font-size: 12px
    */
-  SF_NORMAL_12: css`
+  SF_DENSE_12: css`
     letter-spacing: 0.12em;
     font-size: 0.75rem;
     font-family: ${FontFamily.SF};
@@ -234,7 +234,7 @@ export const Typography = {
   /**
    * font-size: 10px
    */
-  SF_NORMAL_10: css`
+  SF_DENSE_10: css`
     letter-spacing: 0.12em;
     font-size: 0.625rem;
     font-family: ${FontFamily.SF};
@@ -243,7 +243,7 @@ export const Typography = {
   /**
    * font-size: 32px
    */
-  SF_COMFORT_32: css`
+  SF_NORMAL_32: css`
     letter-spacing: 0.12em;
     font-size: 2rem;
     font-family: ${FontFamily.SF};
@@ -252,7 +252,7 @@ export const Typography = {
   /**
    * font-size: 24px
    */
-  SF_COMFORT_24: css`
+  SF_NORMAL_24: css`
     letter-spacing: 0.12em;
     font-size: 1.5rem;
     font-family: ${FontFamily.SF};
@@ -261,7 +261,7 @@ export const Typography = {
   /**
    * font-size: 20px
    */
-  SF_COMFORT_20: css`
+  SF_NORMAL_20: css`
     letter-spacing: 0.12em;
     font-size: 1.25rem;
     font-family: ${FontFamily.SF};
@@ -270,7 +270,7 @@ export const Typography = {
   /**
    * font-size: 18px
    */
-  SF_COMFORT_18: css`
+  SF_NORMAL_18: css`
     letter-spacing: 0.12em;
     font-size: 1.125rem;
     font-family: ${FontFamily.SF};
@@ -279,7 +279,7 @@ export const Typography = {
   /**
    * font-size: 16px
    */
-  SF_COMFORT_16: css`
+  SF_NORMAL_16: css`
     letter-spacing: 0.12em;
     font-size: 1rem;
     font-family: ${FontFamily.SF};
@@ -288,7 +288,7 @@ export const Typography = {
   /**
    * font-size: 14px
    */
-  SF_COMFORT_14: css`
+  SF_NORMAL_14: css`
     letter-spacing: 0.12em;
     font-size: 0.875rem;
     font-family: ${FontFamily.SF};
@@ -297,7 +297,7 @@ export const Typography = {
   /**
    * font-size: 12px
    */
-  SF_COMFORT_12: css`
+  SF_NORMAL_12: css`
     letter-spacing: 0.12em;
     font-size: 0.75rem;
     font-family: ${FontFamily.SF};
@@ -306,11 +306,83 @@ export const Typography = {
   /**
    * font-size: 10px
    */
-  SF_COMFORT_10: css`
+  SF_NORMAL_10: css`
     letter-spacing: 0.12em;
     font-size: 0.625rem;
     font-family: ${FontFamily.SF};
     line-height: 1.5;
+  `,
+  /**
+   * font-size: 32px
+   */
+  SF_COMFORT_32: css`
+    letter-spacing: 0.12em;
+    font-size: 2rem;
+    font-family: ${FontFamily.SF};
+    line-height: 2;
+  `,
+  /**
+   * font-size: 24px
+   */
+  SF_COMFORT_24: css`
+    letter-spacing: 0.12em;
+    font-size: 1.5rem;
+    font-family: ${FontFamily.SF};
+    line-height: 2;
+  `,
+  /**
+   * font-size: 20px
+   */
+  SF_COMFORT_20: css`
+    letter-spacing: 0.12em;
+    font-size: 1.25rem;
+    font-family: ${FontFamily.SF};
+    line-height: 2;
+  `,
+  /**
+   * font-size: 18px
+   */
+  SF_COMFORT_18: css`
+    letter-spacing: 0.12em;
+    font-size: 1.125rem;
+    font-family: ${FontFamily.SF};
+    line-height: 2;
+  `,
+  /**
+   * font-size: 16px
+   */
+  SF_COMFORT_16: css`
+    letter-spacing: 0.12em;
+    font-size: 1rem;
+    font-family: ${FontFamily.SF};
+    line-height: 2;
+  `,
+  /**
+   * font-size: 14px
+   */
+  SF_COMFORT_14: css`
+    letter-spacing: 0.12em;
+    font-size: 0.875rem;
+    font-family: ${FontFamily.SF};
+    line-height: 2;
+  `,
+  /**
+   * font-size: 12px
+   */
+  SF_COMFORT_12: css`
+    letter-spacing: 0.12em;
+    font-size: 0.75rem;
+    font-family: ${FontFamily.SF};
+    line-height: 2;
+  `,
+  /**
+   * font-size: 10px
+   */
+  SF_COMFORT_10: css`
+    letter-spacing: 0.12em;
+    font-size: 0.625rem;
+    font-family: ${FontFamily.SF};
+    line-height: 2;
   `,
   /**
    * font-size: 32px

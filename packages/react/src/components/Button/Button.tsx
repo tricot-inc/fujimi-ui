@@ -6,10 +6,10 @@ import {
   ButtonStyle,
   ButtonLeftIcon,
   ButtonRightIcon,
-} from '@tricot-inc/fujimi-ui';
+} from '@fujimi/ui-core';
 import {Link} from '../Link';
 import {ButtonColor, colorMap} from './color-map';
-import {LoadingIcon} from '@tricot-inc/fujimi-ui-icons';
+import {LoadingIcon} from '@fujimi/ui-icons';
 
 interface TypographyViewPort {
   mobile?: FlattenSimpleInterpolation;

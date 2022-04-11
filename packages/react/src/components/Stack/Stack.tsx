@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import {Alignment, StackStyle} from '@tricot-inc/fujimi-ui';
+import {Alignment, StackStyle} from '@fujimi/ui-core';
 import {Item} from './Item';
 
 type Config = {

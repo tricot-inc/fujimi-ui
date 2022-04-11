@@ -11,7 +11,7 @@ import {
   calcImageStyles,
   Layout,
   Fit,
-} from '@tricot-inc/fujimi-ui';
+} from '@fujimi/ui-core';
 
 const Wrapper = styled.span<{circle?: boolean}>`
   ${ImageStyle};

@@ -1,5 +1,5 @@
 import React from 'react';
-import {Color} from '@tricot-inc/fujimi-ui';
+import {Color} from '@fujimi/ui-core';
 
 export interface Props extends React.ComponentPropsWithoutRef<'svg'> {
   title?: string;

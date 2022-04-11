@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, {FlattenSimpleInterpolation} from 'styled-components';
-import {Color, TextAlign, Typography, LinkStyle} from '@tricot-inc/fujimi-ui';
+import {Color, TextAlign, Typography, LinkStyle} from '@fujimi/ui-core';
 
 interface TypographyViewPort {
   mobile?: FlattenSimpleInterpolation;
