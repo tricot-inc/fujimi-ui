@@ -1,5 +1,5 @@
 import React from 'react';
-import {Color} from 'fujimi-ui';
+import {Color} from '@fujimi/ui-core';
 
 export type Props = React.ComponentPropsWithRef<'svg'>;
 

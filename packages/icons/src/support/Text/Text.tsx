@@ -7,7 +7,7 @@ import {
   Typography,
   LineHeight,
   LetterSpacing,
-} from 'fujimi-ui';
+} from '@fujimi/ui-core';
 
 const Wrapper = styled.span<{
   block: boolean;
