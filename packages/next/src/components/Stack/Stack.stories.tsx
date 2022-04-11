@@ -1,7 +1,7 @@
 import React from 'react';
 import {Stack, Props} from './';
 import {Story} from '@storybook/react/types-6-0';
-import {Color} from 'fujimi-ui';
+import {Color} from '@fujimi/ui-core';
 
 export default {
   title: 'components/Stack',

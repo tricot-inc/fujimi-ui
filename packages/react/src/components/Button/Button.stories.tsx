@@ -1,8 +1,8 @@
 import React from 'react';
 import {Button, Props} from './';
 import {Story} from '@storybook/react/types-6-0';
-import {CartIcon} from 'fujimi-ui-icons';
-import {BarArrowFowardIcon} from 'fujimi-ui-icons';
+import {CartIcon} from '@fujimi/ui-icons';
+import {BarArrowFowardIcon} from '@fujimi/ui-icons';
 
 export default {
   title: 'components/Button',

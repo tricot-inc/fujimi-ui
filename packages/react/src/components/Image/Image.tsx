@@ -8,7 +8,7 @@ import {
   Fit,
   ImageStyle,
   BaseImageStyle,
-} from 'fujimi-ui';
+} from '@fujimi/ui-core';
 import {IntersectionBoundary} from '../../boundaries/IntersectionBoundary';
 import styled from 'styled-components';
 
