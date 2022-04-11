@@ -14,7 +14,8 @@
   },
   "files": [
     "esm",
-    "lib"
+    "lib",
+    "README.md"
   ],
   "publishConfig": {
     "access": "public"
