@@ -2,5 +2,6 @@
 
 ## How to Release
 
-1. `yarn release`
-2. `npm publish`
+1. `yarn build`
+2. `yarn versionup`
+3. `yarn release`
