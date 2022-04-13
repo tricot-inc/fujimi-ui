@@ -1,6 +1,6 @@
 {
   "name": "@fujimi/ui-icons",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "repository": "ssh://git@github.com/tricot-inc/fujimi-ui.git",
   "author": "konojunya <junya03dance@gmail.com>",
   "license": "MIT",
@@ -31,7 +31,7 @@
     "publish": "npm publish"
   },
   "devDependencies": {
-    "@fujimi/ui-core": "^0.2.2",
+    "@fujimi/ui-core": "^0.3.0",
     "@storybook/addon-a11y": "6.4.14",
     "@storybook/addon-essentials": "6.4.14",
     "@storybook/addons": "6.4.14",

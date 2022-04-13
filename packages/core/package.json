@@ -1,6 +1,6 @@
 {
   "name": "@fujimi/ui-core",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "repository": "ssh://git@github.com/tricot-inc/fujimi-ui.git",
   "author": "konojunya <junya03dance@gmail.com>",
   "license": "MIT",
