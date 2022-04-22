@@ -163,7 +163,6 @@ export const Shadow = {
 
 export const FontFamily = {
   MINCHO: "'Mincho Std', sans-serif;",
-  AVENIR: "'Avenir', sans-serif;",
   SF: "'-apple-system', 'BlinkMacSystemFont', sans-serif;",
 };
 
