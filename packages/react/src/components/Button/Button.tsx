@@ -62,6 +62,7 @@ export type Props = React.ComponentPropsWithoutRef<'button'> & {
   target?: string;
   onClick?: (e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
   loading?: boolean;
+  childrenId?: string;
 };
 
 export const heightMap = {
@@ -75,6 +76,7 @@ const BaseButton: React.VFC<Props> = ({
   typography = {mobile: Typography.SF_NORMAL_14},
   children,
   icon,
+  childrenId,
   disabled = false,
   loading = false,
   ...rest
@@ -100,7 +102,7 @@ const BaseButton: React.VFC<Props> = ({
           width={size === 'md' ? 10 : 15}
         />
       ) : (
-        children
+        <span id={childrenId}>{children}</span>
       )}
       {icon?.right != null && <RightIconWrapper>{icon.right}</RightIconWrapper>}
     </ButtonWrapper>
