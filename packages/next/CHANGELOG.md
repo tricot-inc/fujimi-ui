@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2022-04-27)
+
+
+### Bug Fixes
+
+* core を抜く ([#37](https://github.com/tricot-inc/fujimi-ui/issues/37)) ([8d4133a](https://github.com/tricot-inc/fujimi-ui/commit/8d4133afbab4a3cd1e3f19d781ab4b906e5a127b))
+* pakcage/nameの変更 ([#42](https://github.com/tricot-inc/fujimi-ui/issues/42)) ([47f991a](https://github.com/tricot-inc/fujimi-ui/commit/47f991a5f019c0e41a2818f93ac88e80ba0fbddc))
+* storybook and local dependency ([e9bf596](https://github.com/tricot-inc/fujimi-ui/commit/e9bf5962656bc06423ba9760ba9cb13d82f44629))
+* update dependency styled-components to v5.3.5 ([#45](https://github.com/tricot-inc/fujimi-ui/issues/45)) ([78d257a](https://github.com/tricot-inc/fujimi-ui/commit/78d257a970237e3829846150e79fbf2bb5130668))
+
+
+### Features
+
+* Buttonコンポーネントの子要素にidを指定できるように ([#57](https://github.com/tricot-inc/fujimi-ui/issues/57)) ([346467e](https://github.com/tricot-inc/fujimi-ui/commit/346467eff1355b82a3f8c04f73d2f260ee64ed6a))
+* workspacesにわける ([#25](https://github.com/tricot-inc/fujimi-ui/issues/25)) ([29817d2](https://github.com/tricot-inc/fujimi-ui/commit/29817d2d53109e3cabd3de04b76e1e2198738d69))
+
+
+
+
+
 # 0.3.0 (2022-04-13)
 
 
