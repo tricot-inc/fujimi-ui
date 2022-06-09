@@ -67,6 +67,7 @@ import {RadioButtonUncheckedIcon} from './material/RadioButtonUncheckedIcon';
 import {ReplayIcon} from './material/ReplayIcon';
 import {SearchIcon} from './material/SearchIcon';
 import {SettingsIcon} from './material/SettingsIcon';
+import {CampaignIcon} from './material/CampaignIcon';
 
 export default {
   title: 'icons',
@@ -565,6 +566,14 @@ const materialIconTemplate: Story = () => (
         </Icon>
         <Label typography={{mobile: Typography.SF_COMFORT_12}}>
           SettingsIcon
+        </Label>
+      </Item>
+      <Item mobile={{hAlign: 'center'}}>
+        <Icon>
+          <CampaignIcon />
+        </Icon>
+        <Label typography={{mobile: Typography.SF_COMFORT_12}}>
+          CampaignIcon
         </Label>
       </Item>
     </Container>
