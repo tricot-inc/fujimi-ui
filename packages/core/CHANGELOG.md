@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2022-04-27)
+
+
+### Bug Fixes
+
+* Avenir を FontFamily から削除 ([#54](https://github.com/tricot-inc/fujimi-ui/issues/54)) ([4d9005a](https://github.com/tricot-inc/fujimi-ui/commit/4d9005ad84befe5a5d84f93b7a6d692663c481d7))
+* pakcage/nameの変更 ([#42](https://github.com/tricot-inc/fujimi-ui/issues/42)) ([47f991a](https://github.com/tricot-inc/fujimi-ui/commit/47f991a5f019c0e41a2818f93ac88e80ba0fbddc))
+* update dependency styled-components to v5.3.5 ([#45](https://github.com/tricot-inc/fujimi-ui/issues/45)) ([78d257a](https://github.com/tricot-inc/fujimi-ui/commit/78d257a970237e3829846150e79fbf2bb5130668))
+
+
+### Features
+
+* create fujimi-ui ([134fe65](https://github.com/tricot-inc/fujimi-ui/commit/134fe65e24f8e34483353f5d33338625af50f010))
+* workspacesにわける ([#25](https://github.com/tricot-inc/fujimi-ui/issues/25)) ([29817d2](https://github.com/tricot-inc/fujimi-ui/commit/29817d2d53109e3cabd3de04b76e1e2198738d69))
+
+
+
+
+
 # 0.3.0 (2022-04-13)
 
 
