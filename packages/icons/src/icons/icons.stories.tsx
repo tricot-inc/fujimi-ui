@@ -22,7 +22,6 @@ import {MinusIcon} from './fujimi/MinusIcon';
 import {ProteinIcon} from './fujimi/ProteinIcon';
 import {CreditCardIcon} from './fujimi/CreditCardIcon';
 import {LogoIcon} from './fujimi/LogoIcon';
-import {FooterLogo} from './fujimi/FooterLogo';
 import {HeaderLogoIcon} from './fujimi/HeaderLogoIcon';
 import {LoadingIcon} from './fujimi/LoadingIcon';
 import {LogoIconWithPrefix} from './fujimi/LogoIconWithPrefix';
@@ -245,15 +244,6 @@ const fujimiIconTemplate: Story = () => (
         </Icon>
         <Label typography={{mobile: Typography.SF_COMFORT_12}}>
           HeaderLogoIcon
-        </Label>
-      </LargeItem>
-
-      <LargeItem mobile={{hAlign: 'center'}}>
-        <Icon>
-          <FooterLogo />
-        </Icon>
-        <Label typography={{mobile: Typography.SF_COMFORT_12}}>
-          FooterLogo
         </Label>
       </LargeItem>
     </Container>
