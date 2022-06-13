@@ -49,5 +49,6 @@
     "react-dom": "17.0.2",
     "styled-components": "5.3.5",
     "use-intersection": "^0.2.1"
-  }
+  },
+  "gitHead": "935ea86855cc6b0ec5ca4d13e318f5cb703758ff"
 }
