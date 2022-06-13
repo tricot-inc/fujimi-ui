@@ -55,3 +55,4 @@ export {RadioButtonUncheckedIcon} from './icons/material/RadioButtonUncheckedIco
 export {ReplayIcon} from './icons/material/ReplayIcon';
 export {SearchIcon} from './icons/material/SearchIcon';
 export {SettingsIcon} from './icons/material/SettingsIcon';
+export {CampaignIcon} from './icons/material/CampaignIcon';
