@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/tricot-inc/fujimi-ui/compare/@fujimi/ui-icons@0.4.0...@fujimi/ui-icons@0.8.0) (2022-06-15)
+
+
+### Bug Fixes
+
+* export漏れ ([#67](https://github.com/tricot-inc/fujimi-ui/issues/67)) ([480e0ee](https://github.com/tricot-inc/fujimi-ui/commit/480e0ee6a1bcdadabf8191717afdb7728e3ecf71))
+
+
+### Features
+
+* Campaign アイコンを追加 ([#66](https://github.com/tricot-inc/fujimi-ui/issues/66)) ([6b4df48](https://github.com/tricot-inc/fujimi-ui/commit/6b4df48e9b73ff2c66ab436e6dbc0346200b0caf))
+
+
+
+
+
 # [0.7.0](https://github.com/tricot-inc/fujimi-ui/compare/@fujimi/ui-icons@0.4.0...@fujimi/ui-icons@0.7.0) (2022-06-13)
 
 
