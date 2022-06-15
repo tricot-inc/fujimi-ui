@@ -10,7 +10,6 @@ export {CapsuleSoftIcon} from './icons/fujimi/CapsuleSoftIcon';
 export {CartIcon} from './icons/fujimi/CartIcon';
 export {CreditCardIcon} from './icons/fujimi/CreditCardIcon';
 export {ExpandMoreIcon} from './icons/fujimi/ExpandMoreIcon';
-export {FooterLogo} from './icons/fujimi/FooterLogo';
 export {HeaderLogoIcon} from './icons/fujimi/HeaderLogoIcon';
 export {LoadingIcon} from './icons/fujimi/LoadingIcon';
 export {LogoIcon} from './icons/fujimi/LogoIcon';

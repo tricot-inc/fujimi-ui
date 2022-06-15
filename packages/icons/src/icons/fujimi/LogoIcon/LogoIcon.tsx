@@ -10,10 +10,6 @@ export const LogoIcon: React.VFC<Props> = ({
   return (
     <svg width={462} height={70} viewBox="0 0 462 70" fill="none" {...props}>
       <path
-        d="M12.3773 10.2427V30.7364H38.8885V41.0288H12.3773V69.9917H0V0H43.5095V10.2427H12.3773Z"
-        fill={color}
-      />
-      <path
         d="M13.2322 10.2427V30.7364H39.7433V41.0288H13.2322V69.9917H0.854805V0H44.3643V10.2427H13.2322Z"
         fill={color}
       />
