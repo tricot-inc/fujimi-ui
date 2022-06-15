@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.7](https://github.com/tricot-inc/fujimi-ui/compare/@fujimi/ui-react@0.4.0...@fujimi/ui-react@0.4.7) (2022-06-15)
+
+**Note:** Version bump only for package @fujimi/ui-react
+
+
+
+
+
 ## [0.4.6](https://github.com/tricot-inc/fujimi-ui/compare/@fujimi/ui-react@0.4.0...@fujimi/ui-react@0.4.6) (2022-06-15)
 
 **Note:** Version bump only for package @fujimi/ui-react
