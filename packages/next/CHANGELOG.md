@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.5](https://github.com/tricot-inc/fujimi-ui/compare/@fujimi/ui-next@0.4.0...@fujimi/ui-next@0.4.5) (2022-06-15)
+
+**Note:** Version bump only for package @fujimi/ui-next
+
+
+
+
+
 ## [0.4.4](https://github.com/tricot-inc/fujimi-ui/compare/@fujimi/ui-next@0.4.0...@fujimi/ui-next@0.4.4) (2022-06-15)
 
 **Note:** Version bump only for package @fujimi/ui-next
