@@ -39,7 +39,7 @@
     "@storybook/cli": "6.4.22",
     "@storybook/react": "6.4.22",
     "@swc/core": "1.2.135",
-    "@swc/jest": "0.2.20",
+    "@swc/jest": "0.2.21",
     "@types/react": "17.0.45",
     "@types/react-dom": "17.0.17",
     "@types/styled-components": "5.1.25"
