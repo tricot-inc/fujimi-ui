@@ -2,6 +2,9 @@
 
 ## How to Release
 
+1. checkout new branch for new release.
 1. `yarn build`
-2. `yarn versionup`
-3. `yarn release`
+1. `yarn versionup`
+1. open the PR.
+1. merge to main branch.
+1. `yarn release`
