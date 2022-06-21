@@ -52,6 +52,6 @@
     "packages/*"
   ],
   "resolutions": {
-    "@types/react": "17.0.45"
+    "@types/react": "17.0.47"
   }
 }
